@@ -1,6 +1,6 @@
 ### Hello! I'm Pedro Savio, developer mobile and computer engineering student!
 
-<div align="center">
+<div>
   <a href="https://github.com/PedroSavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSavio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSavio&layout=compact&langs_count=7&theme=dark"/>
