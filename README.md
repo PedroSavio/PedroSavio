@@ -1,4 +1,4 @@
-### Hello! I'm Pedro Savio, developer mobile and computer engineering student!
+### Hello! I'm Pedro Savio, web and mobile developer and computer engineering student!
 
 <div align="center">
   <a href="https://github.com/PedroSavio">
