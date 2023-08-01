@@ -1,4 +1,4 @@
-### Hello! I'm Pedro Savio, web and mobile developer!
+### Hello! I'm Pedro Savio, Full Stack developer!
 
 <div align="center">
   <a href="https://github.com/PedroSavio">
