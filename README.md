@@ -141,8 +141,7 @@ const pedroSavio = {
 <br/><br/>
 
 ```
-"Senior isn't a title — it's the calm of knowing what to build,
- what to refactor, and what to leave alone."
+"May the force be with you."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8E23,50:4B5320,100:2F3E1F&height=120&section=footer" width="100%"/>
