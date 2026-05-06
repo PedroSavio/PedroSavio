@@ -126,47 +126,6 @@ const pedroSavio = {
 
 <div align="center">
 
-## ` 03. ` &nbsp;EXPERTISE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ &nbsp;Enterprise Architecture
-Designing robust microservice ecosystems with Spring Boot and Node.js — built to scale, fail gracefully, and evolve.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 &nbsp;Modern Frontend
-Crafting performant SPAs with Angular and React, prioritizing component design, state management, and DX.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 &nbsp;API Engineering
-RESTful and GraphQL APIs that power complex business logic with security, observability, and clean contracts.
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ &nbsp;Cloud & DevOps
-Containerized deployments, automated pipelines, and infrastructure-as-code on AWS with CI/CD discipline.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## ` 04. ` &nbsp;CONNECT
-
 <br/>
 
 <a href="https://linkedin.com/in/pedro-savio">
